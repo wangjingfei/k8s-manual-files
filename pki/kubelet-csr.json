@@ -6,11 +6,11 @@
   },
   "names": [
     {
-      "C": "TW",
-      "L": "Taipei",
-      "ST": "Taipei",
+      "C": "CN",
+      "L": "Shanghai",
+      "ST": "Shanghai",
       "O": "system:nodes",
-      "OU": "Kubernetes-manual"
+      "OU": "Kubernetes-ihr360"
     }
   ]
 }

@@ -6,9 +6,9 @@
   },
   "names": [
     {
-      "C": "TW",
-      "ST": "Taipei",
-      "L": "Taipei",
+      "C": "CN",
+      "ST": "Shanghai",
+      "L": "Shanghai",
       "O": "etcd",
       "OU": "Etcd Security"
     }

@@ -6,11 +6,11 @@
   },
   "names": [
     {
-      "C": "TW",
-      "ST": "Taipei",
-      "L": "Taipei",
+      "C": "CN",
+      "ST": "Shanghai",
+      "L": "Shanghai",
       "O": "system:kube-scheduler",
-      "OU": "Kubernetes-manual"
+      "OU": "Kubernetes-ihr360"
     }
   ]
 }
